@@ -5,10 +5,12 @@
 
  ![DanL0pes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanL0pes&show_icons=true&theme=radical)
 ## Tech 
-[![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()]
+[![Blog](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanL0pes&langs_count=8&theme=radical)
 
 ![Snake animation](https://github.com/DanL0pes/DanL0pes/blob/output/github-contribution-grid-snake.svg)
