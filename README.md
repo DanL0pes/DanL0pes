@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lopes-971a51259/)
 
 
- ![DanL0pes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanL0pes&show_icons=true&theme=radical)
+ ![DanL0pes's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanL0pes&show_icons=true&theme=transparent)
 ## Tech 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
@@ -14,4 +14,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanL0pes&langs_count=8&theme=radical)
 
 ![Snake animation](https://github.com/DanL0pes/DanL0pes/blob/output/github-contribution-grid-snake.svg)
-.
