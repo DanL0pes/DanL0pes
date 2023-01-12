@@ -11,6 +11,6 @@
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]();
 [![Blog](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]();
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats);
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanL0pes&layout=compact)](https://github.com/anuraghazra/github-readme-stats);
 
 ![Snake animation](https://github.com/DanL0pes/DanL0pes/blob/output/github-contribution-grid-snake.svg);
