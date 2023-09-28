@@ -7,5 +7,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanL0pes&layout=compact&theme=radical) 
 
   
-
-![Snake animation](https://github.com/DanL0pes/DanL0pes/blob/output/github-contribution-grid-snake.svg)
